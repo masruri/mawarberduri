@@ -1,0 +1,17 @@
+{
+  "name": "mawarberduri",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "hprasetyou <hprasetyou@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/masruri/mawarberduri",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
