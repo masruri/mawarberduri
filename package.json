@@ -1,11 +1,25 @@
 {
   "name": "mawarberduri",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "mawarberduri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mysql": "^2.13.0",
+    "pug": "^2.0.0-beta.12"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masruri/mawarberduri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/masruri/mawarberduri/issues"
+  },
+  "homepage": "https://github.com/masruri/mawarberduri#readme",
+  "description": ""
 }
